@@ -1,2 +1,5 @@
 This is my Hack pad that I made for the hack club Stardance challenge.
-It a 3x3 pad with a matrix layout. The case is just a usual case but it has a few elemnents about sharks.
+It a 3x3 pad with a matrix layout. The case is just a is a normal clean looking case but I added a few elements to it like smoothed edges and I drew out a silly looking shark. I originaly was gonna go for a light design with minimal case but for longevity I chose make a full case and add my little logo of the shark.
+<img width="179" height="153" alt="Screenshot 2026-10-07 at 9 30 21 am" src="https://github.com/user-attachments/assets/173937a7-1947-4be7-8858-ae9463e8316a" />
+This is my full case it a dimensions are quite weird because of the size of my PCB it 88.5 x 71.5 on the inside which allows me to fit my PCBwith 2.5 mills of tollerance for when it gets 3d printed.The walls are 10 mills thick and the top plate is 3. to get the curves i filleted the conners 5 mills inwards and I think that looked great     
+width="618" height="557" alt="Screenshot 2026-10-07 at 9 36 17 am" src="https://github.com/user-attachments/assets/64dd0d36-35f8-4426-9501-0b25a8d3082e" />
